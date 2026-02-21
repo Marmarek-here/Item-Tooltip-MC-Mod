@@ -3,13 +3,10 @@
 A lightweight **Fabric** mod for Minecraft 1.21.1 that displays a sleek, animated popup showing item statistics whenever you switch items in your main hand.
 
 ## ✨ Features
-- **Dynamic Stats**: Displays Attack Damage, Armor, and Durability.
+- **Dynamic Stats**: Displays Attack Damage and Durability.
 - **Enchantment List**: Shows all current enchantments on the item.
 - **Fade Animation**: Smooth fade-out effect so the UI doesn't clutter your screen.
 - **Lightweight**: Built with performance in mind using native Minecraft rendering.
-
-## 📸 Screenshots
-*(Tip: Add a screenshot from your S25 Ultra or PC here to show off the UI!)*
 
 ## 🛠️ Installation
 1. Make sure you have **Fabric Loader** installed for 1.21.1.
