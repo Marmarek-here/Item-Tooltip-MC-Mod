@@ -1,6 +1,6 @@
-# Item Tooltip MC Mod (Beta 2) 🛡️⚔️
+# Item Tooltip MC Mod (Beta 5) 🛡️⚔️
 
-A lightweight **Fabric** mod for Minecraft 1.21.1 that displays a sleek, animated popup showing item statistics whenever you switch items in your main hand.
+A lightweight **Fabric** mod for Minecraft 1.21+ that displays a sleek, animated popup showing item statistics whenever you switch items in your main hand.
 
 ## ✨ Features
 - **Dynamic Stats**: Displays Attack Damage and Durability.
