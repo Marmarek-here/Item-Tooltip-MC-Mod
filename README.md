@@ -1,4 +1,4 @@
-# Not Enough Tooltips (don't let the repo name fool you!)
+# Not Enough Tooltips
 
 A lightweight **Fabric** mod for Minecraft 1.21+ that displays a sleek, animated popup showing item statistics whenever you switch items in your main hand.
 
